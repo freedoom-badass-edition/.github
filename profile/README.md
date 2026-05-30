@@ -1,4 +1,4 @@
-<img src="https://github.com/freedoom-badass-edition/freedoom-badass-edition/blob/main/screenshots/logo.png" title="" alt="freedoom bad*ss edition" data-align="center">
+<img src="https://raw.githubusercontent.com/freedoom-badass-edition/freedoom-badass-edition/refs/heads/main/screenshots/logo.png" title="" alt="freedoom bad*ss edition" data-align="center">
 is the most bad*ss freedoom mod on earth made for uzdoom
 featuring:
 
